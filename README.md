@@ -1,4 +1,1 @@
-dot-files
-=========
-
-those tricky settings
+Backup for environmental settings
