@@ -1,11 +1,11 @@
 "Marianna's vimrc
 
 "plugins on
-:filetype plugin on
+filetype plugin on
 
 "line numbering on
-:set nu
+set nu
 
 "syntax on
-:syntax on
+syntax on
 
